@@ -1,0 +1,70 @@
+body {
+  font-family: "Roboto", sans-serif;
+  background: #dceafd;
+}
+.birthday-card {
+  max-width: 400px;
+  width: 100%;
+  margin: auto;
+  background: #ffffff;
+  border-radius: 11px;
+  padding: 34px 25px 25px;
+}
+.birthday-card h1 {
+  margin-top: 0;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 23px;
+  margin-bottom: 17px;
+}
+.birthday-user-list {
+  display: flex;
+  background: #f1f6fc;
+  border-radius: 8px;
+  padding: 11px;
+  margin-bottom: 5px;
+}
+.user-img {
+  width: 40px;
+  height: 40px;
+  margin-right: 9px;
+}
+.user-img img {
+  width: 40px;
+  height: 40px;
+}
+.user-list-content h5 {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 18px;
+  letter-spacing: 0.1px;
+  color: #424242;
+  margin: 0 0 5px;
+}
+.user-list-content p {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14px;
+  letter-spacing: 0.1px;
+  color: #757575;
+  margin: 0;
+}
+.clear-btn {
+  background: #00b1eb;
+  border-radius: 5px;
+  border: none;
+  padding: 16px 10px;
+  width: 100%;
+  color: #fff;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  letter-spacing: 0.1px;
+  cursor: pointer;
+  margin-top: 10px;
+  font-family: "Roboto", sans-serif;
+}
